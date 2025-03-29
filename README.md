@@ -77,3 +77,16 @@ Explain, in your own words, what the `pairplot` depicts.
 4. Github
 
 
+### References
+
+- [Iris Dataset]https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_iris.html
+- [Iris Dataset]https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-dataset
+- [Iris Dataset] https://www.amnh.org/learn-teach/curriculum-collections/biodiversity-counts/plant-identification/plant-morphology/parts-of-a-flower
+- [Iris Dataset] https://www.kaggle.com/datasets/uciml/iris
+- [Numpy plolyfit documentation] https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
+- [How to plot polyfit in scatter plot]https://stackoverflow.com/questions/46627629/how-to-use-numpy-polyfit-to-plot-
+- [DataCamp] https://www.datacamp.com/
+- [Seaborn pairplot documentation] https://seaborn.pydata.org/generated/seaborn.pairplot.html#seaborn.pairplot
+- [Matplotlib documentation] https://matplotlib.org/stable/index.html
+- [Github Copilot] 
+- [Wikipedia]https://en.wikipedia.org/wiki/Coefficient_of_determinations
