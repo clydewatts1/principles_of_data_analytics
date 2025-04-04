@@ -1,0 +1,8 @@
+# Required libraries for the tasks.ipynb notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
